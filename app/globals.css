@@ -28,6 +28,7 @@ body {
 .btn-container
 {
   display: inline-block;
+  
 }
 .accept-agreement{
   background-image: linear-gradient(90deg,#2cd9ff,#7effb2);

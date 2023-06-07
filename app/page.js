@@ -34,7 +34,7 @@ By using our chatbot, you agree to the terms and conditions outlined in this dis
 
 If you have any questions or concerns regarding this disclaimer, please contact us at [Contact Email Address].</p>
       </div>
-      <div className="buttons-container">
+      <div className="btn-container">
       <button class="accept-agreement" type="submit">ACCEPT</button>
       <button class="cancel-agreement" type="submit">CANCEL</button>
       </div>
